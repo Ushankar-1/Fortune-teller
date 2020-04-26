@@ -1,6 +1,8 @@
 # Fortune-teller
 Makes "randomized" fortunes
 
+Incomplete. Java.
+
 Pseudocode:
 
 Import "random" Java class
